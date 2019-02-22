@@ -2,7 +2,7 @@ FROM node:8
 
 MAINTAINER Kévio Castro "keviocastro@gmail.com"
 
-USER node
+USER root
 
 RUN apt-get update \
     && apt-get install -y \
