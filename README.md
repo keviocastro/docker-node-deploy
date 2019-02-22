@@ -5,4 +5,4 @@ Simples imagem docker para deploy de aplicações nodejs
 ## Pacotes inclusos
 
 `sshpass`
-`nodejs 8`
+`nodejs 10`
